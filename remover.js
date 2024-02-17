@@ -4,9 +4,13 @@
 // @version      2024-02-17
 // @description  try to take over the world!
 // @author       You
-// @match        https://squarecloud.app/*
+// @license      MIT
+// @match        https://squarecloud.app/*/dashboard
+// @match        https://squarecloud.app/dashboard
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=squarecloud.app
-// @grant        none
+// @grant        NeoDouglas
+// @run-at       document-start
+// @downloadURL = https://raw.githubusercontent.com/neodouglas/SquareRemover/main/remover.js
 // ==/UserScript==
 
 (function() {
