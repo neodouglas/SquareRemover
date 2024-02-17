@@ -7,6 +7,7 @@
 // @license      MIT
 // @match        https://squarecloud.app/*/dashboard
 // @match        https://squarecloud.app/dashboard
+// @match        https://squarecloud.app/*/dashboard/app/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=squarecloud.app
 // @grant        NeoDouglas
 // @run-at       document-start
